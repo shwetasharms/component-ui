@@ -1,0 +1,23 @@
+{
+  "name": "component-ui",
+  "version": "1.0.0",
+  "description": "frontend ui components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shweta Sharma",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shwetasharms/component-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shwetasharms/component-ui/issues"
+  },
+  "homepage": "https://github.com/shwetasharms/component-ui#readme"
+}
